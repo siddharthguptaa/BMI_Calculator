@@ -1,0 +1,32 @@
+*{
+  margin: o auto;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: beige
+}
+
+main{
+  max-width: 400px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: whitesmoke;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column; 
+}
+
+h2{
+background-color: brown;
+font-size: 2rem;
+padding: 2rem 1rem;
+
+}
+
+.output{
+  background-color: #857dd6;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
